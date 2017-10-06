@@ -1,0 +1,9 @@
+{
+  "site_name": "New Website",
+  "site_description": "Welcome to my website!",
+  "preview_length": 200,
+  "date_format": "{WDfull}, {D} {Mshort} {YYYY}",
+  "base_url": "/",
+  "author_email": "somebody@example.com",
+  "author": "Somebody"
+}
